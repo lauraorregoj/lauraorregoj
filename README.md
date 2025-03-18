@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hola! Mi nombre es Laura, tengo 25 años y soy de Colombia.
+
+Desarrollé el juego del amigo secreto de Alura Latam donde podrás:
+
+* Ingresar los nombres que participarán en el sorteo
+* Podrás ver cada que agregues un nombre, la lista que llevas hasta el momento
+* No permite espacios vacíos 
+* Cuando ya hayas agregado la cantidad de nombres que requieras, das click en el botón Sortear Amigo y te mostrará en letras verde el amigo secreto que se seleccionó aleatoriamente. Además, se elimina la lista con el propósito de ver únicamente el resultado
